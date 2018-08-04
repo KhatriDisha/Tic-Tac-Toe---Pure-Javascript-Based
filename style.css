@@ -1,0 +1,21 @@
+button{
+
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    font-size: 20px;
+}
+
+#playagain:hover{
+
+    
+    background-color: blueviolet;
+
+}
+#playagain{
+
+    margin-top: 10px;
+    margin-left: 15%;
+}
+
+
